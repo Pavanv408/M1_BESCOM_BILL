@@ -1,6 +1,6 @@
 # REQUIREMENTS
 
-#INTRODUCTION:
+# # INTRODUCTION:
 
 * The BESCOM Power Bill calculator project is the application based mini project, it is used to predict the power bill of next month by taking input of appliance or load(kva) used. 
 * The tool used for developing application and writting  the code,  is Microsoft visual studio code. 
