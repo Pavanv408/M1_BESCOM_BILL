@@ -19,14 +19,17 @@ _ Units consumed per month
 
 For enhancing the project additionaly functions and Features was Added:
 
-* Power bill calculation in urban areas
-* Power bill calculation in rural areas
+* Power bill calculation in Town & City areas
+* Power bill calculation in Village areas
 * Power bill calculation based on no of units consumed
 
 
 Cost Vs Timeline ** This is the plot of cost of the calculators in ($ ) and time in years
 
 README.md
+
+![image](https://user-images.githubusercontent.com/101516120/161065291-57674213-a444-4cbf-ad1b-902b4e0bb56d.png)
+
 
 [https://www.researchgate.net/profile/Lili_Liu4/publication/329653747/figure/fig4/AS:723817190137857@1549582874490/Cost-of-computing-over-time-Illustration-by-Naomi-Brierley.jpg]
 
