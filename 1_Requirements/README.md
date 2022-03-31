@@ -2,7 +2,10 @@
 
 #INTRODUCTION:
 
-The Electricity Bill calculator project is the application based mini project, which is used to predict the electricity bill of next month by taking input of appliance or load used. The tool used for writing the code in this project is visual studio code. This project has multi file and multiplatform approach (Linux and Windows).
+* The Bescom Power Bill calculator project is the application based mini project, it is used to predict the power bill of next month by taking input of appliance or load(kva) used. 
+* The tool used for developing application and writting  the code,  is Microsoft visual studio code. 
+
+* This project has multifile and multiplatform approach ( works on both Linux and Windows).
 
 #RESEARCH
 
