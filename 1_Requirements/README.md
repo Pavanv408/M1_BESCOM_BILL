@@ -9,7 +9,7 @@
 
 # RESEARCH
 
-######This project is going to be very helpful for the People who don’t have  knowledge of calculating BESCOM Power bill, can use this application to predict electricity bill of upcoming days and months.######
+###### This project is going to be very helpful for the People who don’t have  knowledge of calculating BESCOM Power bill, can use this application to predict electricity bill of upcoming days and months. 
 however, the defining features of an BESCOM Power bill calculator include:
 
 _ Power charges on loads
