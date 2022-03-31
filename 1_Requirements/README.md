@@ -17,6 +17,7 @@ _ Total load draw calculation
 _ Unit consumed per day
 _ Units consumed per month
 
+as we all of know that power supply for agricultural activites and usage is totally free so in this project 
 For enhancing the project additionaly functions and Features was Added:
 
 * Power bill calculation in Town & City areas
@@ -24,29 +25,29 @@ For enhancing the project additionaly functions and Features was Added:
 * Power bill calculation based on no of units consumed
 
 
-Defining System:
+# Defining System:
 
-Design and testing operations of electricity bill calculator using unit testing algorithm.
+Design and testing the  operations of  Bescom Power bill calculator using unit testing algorithm.
 
 SWOT analysis:
 
-Strengths: Innovative, User-friendly.
+* Strengths:Easy, Innovative, User-friendly.
 
-Weakness: Cost of calculator increases as features added in the calculator increase.
+* Weakness: Became complex and Cost of calculator increases as features added in the calculator increases .
 
-Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
+* Opportunities: We all know that we mostly use book and Pen for calculation. So the new technology based apps are always attracts the people.
 
-Threats: Slower growth in an innovation always threat for the company in this dynamic world.
+* Threats: Slower growth in an innovation always threat for the company in this dynamic world.
 
-4’W and 1’H
+# 4’W and # 1’H
 
-What: Electricity bill calculator**
+What:  BESCOM POWER BILL CALCULATOR
 
-Where: School, Science, domestic, industries, Technology
+Where: Home, School and colleges ,domestic, industry Sector, IT SectorsTechnology
 
-When: Need for calculation.
+When:  every month of reading time of Power Meter  by officers and  Need for calculation.
 
-How: Calculates the user input as number of loads and gives the output.
+How: take input of units consumed and  average load draw from  the user and gives the correct calculated  output.
 
 Detail Requirements:
 
