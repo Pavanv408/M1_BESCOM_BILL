@@ -7,9 +7,9 @@
 
 * This project has multifile and multiplatform approach ( works on both Linux and Windows).
 
-#RESEARCH
+# RESEARCH
 
-this project is very helpful for the People who don’t have  knowledge of calculating BESCOM Power bill, can use this application to predict electricity bill of upcoming days and months.
+This project is going to be very helpful for the People who don’t have  knowledge of calculating BESCOM Power bill, can use this application to predict electricity bill of upcoming days and months.
 however, the defining features of an BESCOM Power bill calculator include:
 
 _ Power charges on loads
@@ -17,7 +17,7 @@ _ Total load draw calculation
 _ Unit consumed per day
 _ Units consumed per month
 
-for enhancing the project additionaly functions and Features was Added:
+For enhancing the project additionaly functions and Features was Added:
 
 * Power bill calculation in urban areas
 * Power bill calculation in rural areas
