@@ -49,9 +49,10 @@ When:  every month of reading time of Power Meter  by officers and  Need for cal
 
 How: take input of units consumed and  average load draw from  the user and gives the correct calculated  output.
 
-Detail Requirements:
+# Detail Requirements:
 
 High Level Requirements:
+
 
 | ID	  | Description	                                                        |Status       |  
 |-------|---------------------------------------------------------------------|-------------|
@@ -66,6 +67,7 @@ High Level Requirements:
 
 
 Low level Requirements:
+
 
 | ID	      |         Description	                              |Status
 |-----------|---------------------------------------------------|------------|
