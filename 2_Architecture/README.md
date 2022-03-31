@@ -5,6 +5,6 @@ Architecture
 
 Tools
 ------------------------
-* [Daigram.net] (https://app.diagrams.net)
+* [Daigram.net] (https://app.diagrams.net).
 * Creately
 * or any other free software tools
