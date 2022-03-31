@@ -1,10 +1,10 @@
 Architecture
 -------------------------
-*Add UML Diagrams
-*For information about UML Diagrams refer: UML Diagrams
+* Add UML Diagrams
+* For information about UML Diagrams refer: UML Diagrams
 
 Tools
 ------------------------
-*Draw.io
-*Creately
-*or any other free software tools
+* Draw.io
+* Creately
+* or any other free software tools
