@@ -9,17 +9,21 @@
 
 #RESEARCH
 
-People who don’t have technical knowledge of calculating electricity bill can use this application to predict electricity bill of upcoming months, however, the defining features of an electricity bill calculator include:
+this project is very helpful for the People who don’t have  knowledge of calculating BESCOM Power bill, can use this application to predict electricity bill of upcoming days and months.
+however, the defining features of an BESCOM Power bill calculator include:
 
-power rating of all loads
-total load calculation
-unit consumed per day
-units consumed per month
-In addition, high-end electricity bill calculators generally include:
+_ Power charges on loads
+_ Total load draw calculation
+_ Unit consumed per day
+_ Units consumed per month
 
-electricity bill calculation in urban areas
-electricity bill calculation in rural areas
-bill calculation based on units consumed
+for enhancing the project additionaly functions and Features was Added:
+
+* Power bill calculation in urban areas
+* Power bill calculation in rural areas
+* Power bill calculation based on no of units consumed
+
+
 Cost Vs Timeline ** This is the plot of cost of the calculators in ($ ) and time in years
 
 README.md
